@@ -25,7 +25,7 @@ public class NewTest {
 	@Test
 	public void t()
 	{
-		
+		System.out.println();
 	}
 		
 		@Test(priority=1)

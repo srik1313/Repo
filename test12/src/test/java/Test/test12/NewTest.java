@@ -22,6 +22,11 @@ public class NewTest {
 //	System.out.println("This is before method");
 //}
 
+	@Test
+	public void t()
+	{
+		
+	}
 		
 		@Test(priority=1)
 		public void launchBrowser() {
